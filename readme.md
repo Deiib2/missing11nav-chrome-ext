@@ -1,4 +1,4 @@
-# Navigation Buttons for Game/Round Navigation
+# Navigation Buttons for missing11.com Game Navigation
 
 This project enhances user experience by adding navigation buttons to easily switch between different games or teams.
 
